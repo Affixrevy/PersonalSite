@@ -70,6 +70,13 @@ body {
     animation: anim3 2s forwards 3s;
 }
 
+.body__text {
+    position: relative;
+    left: -100%;
+    animation: anim3 2s forwards 3s;
+    font-size: 0.4em;
+}
+
 @keyframes anim3 {
     from {
         left: -100%;
