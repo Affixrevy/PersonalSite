@@ -55,7 +55,6 @@ body {
     height: auto;
     font-family: 'Oxygen', sans-serif;
     color: white;
-    font-size: 10em;
     font-weight: 500;
     line-height: 130px;
     position: absolute;
@@ -66,6 +65,7 @@ body {
 
 .text {
     position: relative;
+    font-size: 10em;
     left: -100%;
     animation: anim3 2s forwards 3s;
 }
